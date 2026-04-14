@@ -3,7 +3,7 @@
 Bienvenue dans ce dépôt dédié à l'analyse et à la prédiction du trafic routier, basé sur le célèbre jeu de données californien **PeMS07**.
 
 👉 **[Visualiser le Notebook complet avec tous les graphiques (Atelier.html)](https://zinebsaadeddine11.github.io/TraficRoutier_Projet/Atelier.html)**  
-*(Nécessite l'activation de GitHub Pages)*
+
 
 ---
 
